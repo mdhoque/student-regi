@@ -14,7 +14,7 @@ public class Factorial {
 	
 	public static void main(String[] args) {
 	
-		int number = 6;
+		int number = 67;
 		
 		System.out.println(factorial(number));
 			
